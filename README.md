@@ -36,11 +36,6 @@ Travel Class Impact: Comparison of survival across Pclass categories.
 
 Interactive Filters: Drill-down options for deeper exploration.
 
-## 📂 Project Structure
-├── titanic.csv                # Dataset file  
-├── 24MCA145_LAB_ASSIGNMENT_4.pbix   # Power BI dashboard file  
-├── README.md                  # Project documentation  
-
 ## 🚀 How to Use
 
 Clone this repository:
