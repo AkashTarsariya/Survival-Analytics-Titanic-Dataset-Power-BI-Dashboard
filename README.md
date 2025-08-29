@@ -40,7 +40,7 @@ Interactive Filters: Drill-down options for deeper exploration.
 
 Clone this repository:
 
-git clone ![Project Clone](https://github.com/AkashTarsariya/Survival-Analytics-Titanic-Dataset-Power-BI-Dashboard.git)
+git clone [Clone Project here](https://github.com/AkashTarsariya/Survival-Analytics-Titanic-Dataset-Power-BI-Dashboard.git)
 
 
 Open the .pbix file in Power BI Desktop.
@@ -70,4 +70,4 @@ Contributions, issues, and feature requests are welcome! Feel free to fork this 
 
 ## 📸 Sample Dashboard Preview
 
-(Insert screenshots of your dashboard here after exporting from Power BI)
+- [Power BI Dashboard]()
