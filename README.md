@@ -2,7 +2,7 @@
 An interactive Power BI dashboard built on the Titanic dataset to analyze survival patterns. Features insights on age, gender, class, and demographics with visual storytelling. Highlights data-driven patterns and survival trends for data analytics practice.
 
 #Titanic Survival Insights Dashboard
-#📌 Project Overview
+# 📌 Project Overview
 
 This project explores the Titanic dataset to uncover survival patterns among passengers using Power BI visualizations.
 The dashboard highlights passenger demographics, travel classes, and survival rates, giving clear insights into one of the most famous shipwrecks in history.
