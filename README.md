@@ -70,4 +70,4 @@ Contributions, issues, and feature requests are welcome! Feel free to fork this 
 
 ## 📸 Sample Dashboard Preview
 
-- [Power BI Dashboard]()
+- [Power BI Dashboard](https://github.com/AkashTarsariya/Survival-Analytics-Titanic-Dataset-Power-BI-Dashboard/blob/main/Titanic%20Survival%20Insights%20Dashboard%20PNG.png)
